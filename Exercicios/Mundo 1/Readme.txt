@@ -2,4 +2,4 @@ Python é uma linguagem ultra moderna, utilizada por grandes empresas como Googl
 
 O primeiro mundo foi pensando de forma a apresentar a linguagem ao aluno, o professor irá introduzir a linguagem, seus conceitos, montar o primeiro programa e ensinar alguns recursos básicos.
 
-Todos os codigos criados dentro desta pasta foram feitos por Lucas de Souza Silva 
+TODOS OS CODIGOS CONTIDOS NESTA PASTA FORAM FEITOS POR LUCAS DE SOUZA SILVA
